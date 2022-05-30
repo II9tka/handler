@@ -12,6 +12,7 @@ pytracking = "^0.2.2"
 Markdown = "^3.3.7"
 django-ipware = "^4.0.2"
 requests = "^2.27.1"
+django-solo = "^2.0.0"
 
 [tool.poetry.dev-dependencies]
 
