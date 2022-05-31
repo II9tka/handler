@@ -10,6 +10,9 @@ charset-normalizer==2.0.12; python_full_version >= "3.6.0" and python_version >=
 django-ipware==4.0.2; (python_version >= "2.7" and python_full_version < "3.0.0") or (python_full_version >= "3.6.0") \
     --hash=sha256:602a58325a4808bd19197fef2676a0b2da2df40d0ecf21be414b2ff48c72ad05 \
     --hash=sha256:878dbb06a87e25550798e9ef3204ed70a200dd8b15e47dcef848cf08244f04c9
+django-solo==2.0.0; python_version >= "3.6" \
+    --hash=sha256:7c6dbe04ae858a4645b580ec83a31a960a067ad4525d8227cca50b7fc5983a62 \
+    --hash=sha256:9046eca738f2ed64dbef38c2107a02af1065a8899b4f9fabf61b06b8325de1b4
 django==3.2; python_version >= "3.6" \
     --hash=sha256:0604e84c4fb698a5e53e5857b5aea945b2f19a18f25f10b8748dbdf935788927 \
     --hash=sha256:21f0f9643722675976004eb683c55d33c05486f94506672df3d6a141546f389d
